@@ -1,0 +1,14 @@
+{
+  "name": "multiple_linear_regression_notation_1",
+  "src": [
+    "multiple_linear_regression_notation_1.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
