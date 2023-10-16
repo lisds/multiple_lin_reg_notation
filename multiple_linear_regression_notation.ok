@@ -1,7 +1,7 @@
 {
-  "name": "multiple_linear_regression_notation_1",
+  "name": "multiple_linear_regression_notation",
   "src": [
-    "multiple_linear_regression_notation_1.ipynb"
+    "multiple_linear_regression_notation.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
